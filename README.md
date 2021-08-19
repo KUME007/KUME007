@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KUME007
-- 👀 I’m interested in ...data
-- 🌱 I’m currently learning ...Power bi,SQL,R Programming, GIS
+- 👀 I’m interested in ...Data
+- 🌱 I’m currently learning ...Power BI, SQL, R Programming, GIS
 - 💞️ I’m looking to collaborate on ...Data Analysis
 - 📫 How to reach me ...Freetamiru@yahoo.com
 
